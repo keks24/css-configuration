@@ -1,0 +1,2 @@
+# track binary files
+*.vtf filter=lfs diff=lfs merge=lfs -text
